@@ -11,30 +11,7 @@ export const AssetsInitialization = async () => {
       {
         name: "game-screen",
         assets: [
-          {
-            name: "s1",
-            srcs: "./Assets/Black_crystal1.png",
-          },
-          {
-            name: "t1",
-            srcs: "./Assets/unsplash50.jpg",
-          },
-          {
-            name: "t2",
-            srcs: "./Assets/unsplash60.jpg",
-          },
-          {
-            name: "t3",
-            srcs: "./Assets/unsplash70.jpg",
-          },
-          {
-            name: "t4",
-            srcs: "./Assets/unsplash80.jpg",
-          },
-          {
-            name: "t5",
-            srcs: "./Assets/unsplash90.jpg",
-          },
+
           {
             name: "gameSceenBackground",
             srcs: "./Assets/images/Background4.png",
